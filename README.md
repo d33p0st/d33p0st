@@ -2,7 +2,7 @@
 
 A coder by heart, a problem solver and always up for learning new things about computers.
 
-![pviews](https://komarev.com/ghpvc/?username=d33pster&color=blueviolet)
+![pviews](https://komarev.com/ghpvc/?username=d33p0st&color=blueviolet)
 
 Well, that's disappointing. Anyway...
 
