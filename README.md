@@ -6,20 +6,6 @@ A coder by heart, a problem solver and always up for learning new things about c
 
 Well, that's disappointing. Anyway...
 
-
-##
-<img src="https://myreadme.vercel.app/api/embed/d33p0st?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-## 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d33p0st&theme=tokyonight" alt="mystreak"/>
-
-<!-- ##
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg) -->
-
-##
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ##
 <a href="https://www.linkedin.com/in/soumyodeepgupta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/blipdipp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
