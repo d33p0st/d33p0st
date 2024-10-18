@@ -7,7 +7,7 @@ A coder by heart, a problem solver and always up for learning new things about c
 Well, that's disappointing. Anyway...
 
 ##
-[![d33p0st's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d33p0st)](https://d33p0st.in)
+[![d33p0st's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d33p0st&theme=vue)](https://d33p0st.in)
 
 ##
 Commit Profile before [@d33p0st](https://github.com/d33p0st):
